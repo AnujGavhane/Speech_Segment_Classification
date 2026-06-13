@@ -34,16 +34,3 @@ This project implements speech signal analysis techniques in MATLAB to classify 
 * Accurate identification of voiced speech regions.
 * Detection of unvoiced speech and silent intervals.
 * Visualization of classified speech components.
-
-## Applications
-
-* Speech recognition systems
-* Voice activity detection
-* Audio preprocessing
-* Human-computer interaction systems
-
-## Future Improvements
-
-* Machine learning-based classification
-* Noise-robust speech detection
-* Real-time speech analysis
